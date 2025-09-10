@@ -1,0 +1,18 @@
+# requirements.txt
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+python-multipart
+pymupdf
+Pillow
+numpy
+torch
+transformers
+langchain
+langchain_community
+langchain_ollama
+langgraph
+faiss-cpu
+python-dotenv
